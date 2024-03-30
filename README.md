@@ -18,7 +18,7 @@ npm run dev
 - [x] The site displays a list of data fetched using an API call
 - [x] Use the useEffect React hook and async/await syntax
 - [x] The app dashboard includes at least three summary statistics about the data, such as:
-- [x] the total number of items in the dataset, the mean and the mode of the data
+- [x] the total number of items in the dataset, the mean and the median of the data
 - [x] A search bar allows the user to search for an item in the fetched data
 - [x] Multiple different filters (2+) allow the user to filter items in the database by specified categories
 
